@@ -34,9 +34,6 @@ A first-person exploration-based cyberpunk game made with [Unity](https://unity.
 * A retro game for the [PICO-8](https://www.lexaloffle.com/pico-8.php)
 * Parsing Brood War replay data
 
-## 🧔
-### - About
-* Name: Michael Clark
-* Email:  [mikeds@live.com.au](mikeds@live.com.au)
+### - Contact
 * Twitter:  [MikeCDev1](https://twitter.com/MikeCDev1)
 * LinkedIn:  [linkedin.com/in/michael-clark](https://www.linkedin.com/in/michael-clark-12258b173/)
