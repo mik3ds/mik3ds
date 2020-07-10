@@ -1,8 +1,11 @@
 # 👋  Hey I’m Mike
 I’m a Software Engineer from Melbourne, Australia🇦🇺.
 
-Current Position: Web Dev ✅ 
+
+Current Position: Web Dev ✅
+
 Prev Position: Android (Kotlin) 📱 
+
 Spare time: Game Dev 🤖
 
 ## 🏁
