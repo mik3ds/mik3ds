@@ -1,6 +1,5 @@
 # 👋  Hey I’m Mike
-I’m a Software Engineer from Melbourne, Australia🇦🇺. I'm strong at native Android Kotlin development and mobile-focused Web Development.
-
+I’m a Software Engineer from Melbourne, Australia🇦🇺. 
 
 
 
