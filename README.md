@@ -11,13 +11,16 @@ Spare time: Game Dev 🤖
 
 ### 🏁 Live projects
 🔮 *- Crystal World Website*
+
 Put this website for ([Crystal World](http://crystalworld.com.au/) together for my current workplace using Wordpress with custom PHP and using Python scripts to automate the conversion of over 1800 pages from previous versions of the site.  *Under Construction*
 
 ### - Current projects
 🎲 *- 100 Days of Code Challenge*
+
 Find out more about the challenge here, and follow my progress on [Twitter](https://twitter.com/MikeCDev1) and my log [right here on Github](https://github.com/mik3ds/100-days-of-code/blob/master/log.md).
 
 📱 *- Android Social Media Application*
+
 Social Media app for Android written in Kotlin using a [Firebase](https://firebase.google.com/) backend.
 
 🕹 *- Untitled Exploration Game*
