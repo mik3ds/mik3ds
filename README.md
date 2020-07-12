@@ -10,8 +10,7 @@ Prev Position: Android (Kotlin) 📱
 
 Spare time: Game Dev 🤖
 
-## 🏁
-### - Live projects
+### 🏁 Live projects
 🔮 *- Crystal World Website*
 Put this website for ([Crystal World](http://crystalworld.com.au/) together for my current workplace using Wordpress with custom PHP and using Python scripts to automate the conversion of over 1800 pages from previous versions of the site.  *Under Construction*
 
