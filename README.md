@@ -5,7 +5,7 @@ I’m a Software Engineer from Melbourne, Australia🇦🇺.
 
 Current Position: Web Dev ✅
 
-Prev Position: Android (Kotlin) 📱 
+Prev Position: Android Developer 📱 
 
 Spare time: Game Dev 🤖
 
